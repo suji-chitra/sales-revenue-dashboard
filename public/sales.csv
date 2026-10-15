@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Revenue,Region
+2026-10-01,Laptop,Electronics,2,100000,Chennai
+2026-10-02,Mouse,Accessories,10,5000,Coimbatore
+2026-10-03,Keyboard,Accessories,5,7500,Madurai
+2026-10-04,Mobile,Electronics,3,45000,Chennai
+2026-10-05,Monitor,Electronics,4,60000,Coimbatore
+2026-10-06,Headphones,Accessories,6,12000,Madurai
+2026-10-07,Laptop,Electronics,1,50000,Chennai
+2026-10-08,Mouse,Accessories,8,4000,Salem
+2026-10-09,Mobile,Electronics,2,30000,Coimbatore
+2026-10-10,Monitor,Electronics,3,45000,Salem
